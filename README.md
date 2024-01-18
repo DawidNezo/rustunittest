@@ -1,7 +1,5 @@
 # Rust Unit Tests
 
-![Build](https://github.com/leozz37/rust-unit-test/workflows/Build/badge.svg)
-
 Simple unit testing example with Rust, for study purposes.
 
 ## Running
@@ -16,4 +14,10 @@ Run the tests:
 
 ```shell
 $ cargo test
+```
+
+Run the example app
+
+```shell
+$ cargo run
 ```
